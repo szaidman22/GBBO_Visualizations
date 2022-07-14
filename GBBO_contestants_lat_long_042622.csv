@@ -1,0 +1,135 @@
+"","X","baker","age","sex","occupation","hometown","season","name_or_nickname","firstname","result","hometown_uk","coords.lon","coords.lat","lon","lat"
+"1",  1,"Ben Frazer",31,"M","Graphic Designer","Northampton", 2,"Ben Frazer","Ben",NA,"Northampton, UK",-0.8944421,52.2370650,-0.8944421,52.23706
+"2",  2,"Holly Bell",31,"F","Advertising executive","Leicester", 2,"Holly Bell","Holly",NA,"Leicester, UK",-1.1397592,52.6368778,-1.1397592,52.63688
+"3",  3,"Ian Vallance",40,"M","Fundraiser for English Heritage","Dunstable, Bedfordshire", 2,"Ian Vallance","Ian",NA,"Dunstable, Bedfordshire, UK",-0.5203900,51.8856440,-0.5203900,51.88564
+"4",  4,"Janet Basu",63,"F","Teacher of Modern Languages","Formby, Liverpool", 2,"Janet Basu","Janet",NA,"Formby, Liverpool, UK",-3.0687430,53.5582710,-3.0687430,53.55827
+"5",  5,"Jason White",19,"M","Civil Engineering Student","Croydon", 2,"Jason White","Jason",NA,"Croydon, UK",-0.0956895,51.3769529,-0.0956895,51.37695
+"6",  6,"Joanne ""Jo"" Wheatley",41,"F","Housewife","Ongar, Essex", 2,"Jo","Jo","WINNER","Ongar, Essex, UK", 0.2427558,51.7095315, 0.2427558,51.70953
+"7",  7,"Keith Batsford",31,"M","House husband","Arlesey, Bedfordshire", 2,"Keith Batsford","Keith",NA,"Arlesey, Bedfordshire, UK",-0.2632600,52.0153470,-0.2632600,52.01535
+"8",  8,"Mary-Anne Boermans",45,"F","Housewife","Kidderminster, Worcestershire", 2,"Mary-Anne Boermans","Mary-Anne",NA,"Kidderminster, Worcestershire, UK",-2.2496839,52.3885960,-2.2496839,52.38860
+"9",  9,"Robert Billington",25,"M","Photographer","London", 2,"Robert Billington","Robert",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"10", 10,"Simon Blackwell",31,"M","Rugby Coach","Norfolk", 2,"Simon Blackwell","Simon",NA,"Norfolk, UK", 0.8864021,52.6139686, 0.8864021,52.61397
+"11", 11,"Urvashi Roe",40,"F","Head of Marketing","Enfield, London", 2,"Urvashi Roe","Urvashi",NA,"Enfield, London, UK",-0.1180651,51.6622909,-0.1180651,51.66229
+"12", 12,"Yasmin Limbert",43,"F","Childminder","West Kirby, The Wirral", 2,"Yasmin Limbert","Yasmin",NA,"West Kirby, The Wirral, UK",-3.1842948,53.3723866,-3.1842948,53.37239
+"13", 13,"Brendan Lynch",63,"M","Recruitment consultant","Sutton Coldfield", 3,"Brendan Lynch","Brendan",NA,"Sutton Coldfield, UK",-1.8240420,52.5703850,-1.8240420,52.57038
+"14", 14,"Cathryn Dresser",27,"F","Shop assistant","Pease Pottage, West Sussex", 3,"Cathryn Dresser","Cathryn",NA,"Pease Pottage, West Sussex, UK",-0.2028485,51.0832565,-0.2028485,51.08326
+"15", 15,"Danny Bryden",45,"F","Intensive care consultant","Sheffield", 3,"Danny Bryden","Danny",NA,"Sheffield, UK",-1.4700850,53.3811290,-1.4700850,53.38113
+"16", 16,"James Morton",21,"M","Medical student","Hillswick, Shetland Islands", 3,"James Morton","James",NA,"Hillswick, Shetland Islands, UK",-1.4890760,60.4763990,-1.4890760,60.47640
+"17", 17,"John Whaite",22,"M","Law student","Wigan", 3,"John Whaite","John","WINNER","Wigan, UK",-2.6325074,53.5450645,-2.6325074,53.54506
+"18", 18,"Manisha Parmar",27,"F","Nursery nurse","Leicester", 3,"Manisha Parmar","Manisha",NA,"Leicester, UK",-1.1397592,52.6368778,-1.1397592,52.63688
+"19", 19,"Natasha Stringer",36,"F","Midwife","Tamworth, Staffordshire", 3,"Natasha Stringer","Natasha",NA,"Tamworth, Staffordshire, UK",-1.6910320,52.6335840,-1.6910320,52.63358
+"20", 20,"Peter Maloney",43,"M","Sales manager","Windsor, Berkshire", 3,"Peter Maloney","Peter",NA,"Windsor, Berkshire, UK",-0.6157137,51.4803421,-0.6157137,51.48034
+"21", 21,"Ryan Chong",38,"M","Photographer","Bristol", 3,"Ryan Chong","Ryan",NA,"Bristol, UK",-2.5879100,51.4545130,-2.5879100,51.45451
+"22", 22,"Sarah-Jane Willis",28,"F","Vicar's wife","Bewbush, West Sussex", 3,"Sarah-Jane Willis","Sarah-Jane",NA,"Bewbush, West Sussex, UK",-0.2238525,51.1032170,-0.2238525,51.10322
+"23", 23,"Stuart Marston-Smith",26,"M","PE teacher","Lichfield, Staffordshire", 3,"Stuart Marston-Smith","Stuart",NA,"Lichfield, Staffordshire, UK",-1.8316720,52.6816020,-1.8316720,52.68160
+"24", 24,"Victoria Chester",50,"F","CEO of the charity Plantlife","Somerset", 3,"Victoria Chester","Victoria",NA,"Somerset, UK",-2.9262307,51.1050970,-2.9262307,51.10510
+"25", 25,"Ali Imdad",25,"M","Charity worker","Saltley, Birmingham", 4,"Ali Imdad","Ali",NA,"Saltley, Birmingham, UK",-1.8530914,52.4933803,-1.8530914,52.49338
+"26", 26,"Beca Lyne-Pirkis",31,"F","Military Wives' Choir Singer","Aldershot, Hampshire", 4,"Beca Lyne-Pirkis","Beca",NA,"Aldershot, Hampshire, UK",-0.7557509,51.2483660,-0.7557509,51.24837
+"27", 27,"Christine Wallace",66,"F","Director of an engraving company","Didcot, Oxfordshire", 4,"Christine Wallace","Christine",NA,"Didcot, Oxfordshire, UK",-1.2448400,51.6080440,-1.2448400,51.60804
+"28", 28,"Deborah Manger",51,"F","Dentist","Peterborough", 4,"Deborah Manger","Deborah",NA,"Peterborough, UK",-0.2407997,52.5703169,-0.2407997,52.57032
+"29", 29,"Frances Quinn",31,"F","Children's Clothes Designer","Market Harborough, Leicestershire", 4,"Frances Quinn","Frances","WINNER","Market Harborough, Leicestershire, UK",-0.9215170,52.4757690,-0.9215170,52.47577
+"30", 30,"Glenn Cosby",37,"M","English Teacher","Teignmouth, Devon", 4,"Glenn Cosby","Glenn",NA,"Teignmouth, Devon, UK",-3.4966880,50.5470330,-3.4966880,50.54703
+"31", 31,"Howard Middleton",51,"M","Council Worker","Sheffield", 4,"Howard Middleton","Howard",NA,"Sheffield, UK",-1.4700850,53.3811290,-1.4700850,53.38113
+"32", 32,"Kimberley Wilson",30,"F","Psychologist","London", 4,"Kimberley Wilson","Kimberley",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"33", 33,"Lucy Bellamy",38,"F","Horticulturist","Grimsby, Lincolnshire", 4,"Lucy Bellamy","Lucy",NA,"Grimsby, Lincolnshire, UK",-0.0807840,53.5674710,-0.0807840,53.56747
+"34", 34,"Mark Onley",37,"M","Carpenter and Kitchen Fitter","Milton Keynes", 4,"Mark Onley","Mark",NA,"Milton Keynes, UK",-0.7594171,52.0406224,-0.7594171,52.04062
+"35", 35,"Robert Smart",54,"M","Space Satellite Designer","Melbourn, Cambridgeshire", 4,"Robert Smart","Robert",NA,"Melbourn, Cambridgeshire, UK", 0.0160090,52.0838690, 0.0160090,52.08387
+"36", 36,"Ruby Tandoh",20,"F","History of Art and Philosophy Student","Southend, Essex", 4,"Ruby Tandoh","Ruby",NA,"Southend, Essex, UK", 0.7077123,51.5459269, 0.7077123,51.54593
+"37", 37,"Toby Waterworth",30,"M","Web Programmer","Reading, Berkshire", 4,"Toby Waterworth","Toby",NA,"Reading, Berkshire, UK",-0.9787475,51.4551201,-0.9787475,51.45512
+"38", 38,"Chetna Makan",35,"F","Fashion Designer","Broadstairs, Kent", 5,"Chetna Makan","Chetna",NA,"Broadstairs, Kent, UK", 1.4320380,51.3601630, 1.4320380,51.36016
+"39", 39,"Claire Goodwin",31,"F","Speech Therapist","Ashton upon Mersey, Trafford", 5,"Claire Goodwin","Claire",NA,"Ashton upon Mersey, Trafford, UK",-2.3429622,53.4294536,-2.3429622,53.42945
+"40", 40,"Diana Beard",69,"F","Women's Institute (WI) Judge","Alkington, Shropshire", 5,"Diana Beard","Diana",NA,"Alkington, Shropshire, UK",-2.7003890,52.9491299,-2.7003890,52.94913
+"41", 41,"Enwezor Nzegwu",39,"M","Business Consultant","Portsmouth, Hampshire", 5,"Enwezor Nzegwu","Enwezor",NA,"Portsmouth, Hampshire, UK",-1.0879769,50.8197675,-1.0879769,50.81977
+"42", 42,"Iain Watters",31,"M","Construction Engineer","London/Belfast", 5,"Iain Watters","Iain",NA,"London/Belfast, UK",-5.9086368,54.5903923,-5.9086368,54.59039
+"43", 43,"Jordan Cox",32,"M","IT Manager","Sneinton, Nottingham", 5,"Jordan Cox","Jordan",NA,"Sneinton, Nottingham, UK",-1.1258177,52.9505859,-1.1258177,52.95059
+"44", 44,"Kate Henry",41,"F","Furniture Restorer","Brighton, East Sussex", 5,"Kate Henry","Kate",NA,"Brighton, East Sussex, UK",-0.1362672,50.8229402,-0.1362672,50.82294
+"45", 45,"Luis Troyano",42,"M","Graphic Designer","Poynton, Cheshire", 5,"Luis Troyano","Luis",NA,"Poynton, Cheshire, UK",-2.1215720,53.3486540,-2.1215720,53.34865
+"46", 46,"Martha Collison",17,"F","Student","Ascot, Berkshire", 5,"Martha Collison","Martha",NA,"Ascot, Berkshire, UK",-0.6755624,51.4062365,-0.6755624,51.40624
+"47", 47,"Nancy Birtwhistle",60,"F","Retired Practice Manager","Barton-upon-Humber, Lincolnshire", 5,"Nancy Birtwhistle","Nancy","WINNER","Barton-upon-Humber, Lincolnshire, UK",-0.4433680,53.6866750,-0.4433680,53.68668
+"48", 48,"Norman Calder",66,"F","Retired Naval Officer","Portknockie, Moray", 5,"Norman Calder","Norman",NA,"Portknockie, Moray, UK",-2.8593110,57.7030320,-2.8593110,57.70303
+"49", 49,"Richard Burr",38,"M","Builder","Mill Hill, London", 5,"Richard Burr","Richard",NA,"Mill Hill, London, UK",-0.2463566,51.6133816,-0.2463566,51.61338
+"50", 50,"Alvin Magallanes",37,"M","Nurse","Bracknell, Berkshire", 6,"Alvin Magallanes","Alvin",NA,"Bracknell, Berkshire, UK",-0.7525170,51.4141982,-0.7525170,51.41420
+"51", 51,"Dorret Conway",53,"F","Accountant","Penwortham, Lancashire", 6,"Dorret Conway","Dorret",NA,"Penwortham, Lancashire, UK",-2.7355870,53.7500720,-2.7355870,53.75007
+"52", 52,"Flora Shedden",19,"F","Art gallery assistant","Dunkeld, Perth and Kinross", 6,"Flora Shedden","Flora",NA,"Dunkeld, Perth and Kinross, UK",-3.5862204,56.5676532,-3.5862204,56.56765
+"53", 53,"Ian Cumming",41,"M","Travel photographer","Great Wilbraham, Cambridgeshire", 6,"Ian Cumming","Ian",NA,"Great Wilbraham, Cambridgeshire, UK", 0.2647319,52.1920718, 0.2647319,52.19207
+"54", 54,"Marie Campbell",66,"F","Retired","Auchterarder, Perthshire", 6,"Marie Campbell","Marie",NA,"Auchterarder, Perthshire, UK",-3.7000410,56.3006210,-3.7000410,56.30062
+"55", 55,"Mat Riley",37,"M","Fire fighter","London", 6,"Mat Riley","Mat",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"56", 56,"Nadiya Hussain",30,"F","Full-time mother","Leeds", 6,"Nadiya Hussain","Nadiya","WINNER","Leeds, UK",-1.5490774,53.8007554,-1.5490774,53.80076
+"57", 57,"Paul Jagger",49,"M","Prison governor","Swansea, Wales", 6,"Paul Jagger","Paul",NA,"Swansea, Wales, UK",-3.9436460,51.6214400,-3.9436460,51.62144
+"58", 58,"Sandy Docherty",49,"F","Child welfare officer","Yeadon, West Yorkshire", 6,"Sandy Docherty","Sandy",NA,"Yeadon, West Yorkshire, UK",-1.6842030,53.8651530,-1.6842030,53.86515
+"59", 59,"Stu Henshall",35,"M","Professional musician","Guildford, Surrey", 6,"Stu Henshall","Stu",NA,"Guildford, Surrey, UK",-0.5704090,51.2362200,-0.5704090,51.23622
+"60", 60,"Tamal Ray",29,"M","Trainee anaesthetist","Manchester", 6,"Tamal Ray","Tamal",NA,"Manchester, UK",-2.2426305,53.4807593,-2.2426305,53.48076
+"61", 61,"Ugnė Bubnaityte",32,"F","PA and administrator","Woodford, London", 6,"Ugnė Bubnaityte","Ugnė",NA,"Woodford, London, UK", 0.0325025,51.6041751, 0.0325025,51.60418
+"62", 62,"Andrew Smyth",25,"M","Aerospace engineer","Derby", 7,"Andrew Smyth","Andrew",NA,"Derby, UK",-1.4746186,52.9225301,-1.4746186,52.92253
+"63", 63,"Benjamina Ebuehi",23,"F","Teaching assistant","South London", 7,"Benjamina Ebuehi","Benjamina",NA,"South London, UK",-0.1403317,51.3888898,-0.1403317,51.38889
+"64", 64,"Candice Brown",31,"F","PE teacher","Barton-Le-Clay, Bedfordshire", 7,"Candice Brown","Candice","WINNER","Barton-Le-Clay, Bedfordshire, UK",-0.4271385,51.9689711,-0.4271385,51.96897
+"65", 65,"Jane Beedle",61,"F","Garden designer","Beckenham", 7,"Jane Beedle","Jane",NA,"Beckenham, UK",-0.0258130,51.4081700,-0.0258130,51.40817
+"66", 66,"Kate Barmby",37,"F","Nurse","Brooke, Norfolk", 7,"Kate Barmby","Kate",NA,"Brooke, Norfolk, UK", 1.3626181,52.5293721, 1.3626181,52.52937
+"67", 67,"Lee Banfield",67,"M","Pastor","Bolton", 7,"Lee Banfield","Lee",NA,"Bolton, UK",-2.4282192,53.5768647,-2.4282192,53.57686
+"68", 68,"Louise Williams",46,"F","Hairdresser","Cardiff", 7,"Louise Williams","Louise",NA,"Cardiff, UK",-3.1680962,51.4837070,-3.1680962,51.48371
+"69", 69,"Michael Georgiou",20,"M","Student","Durham", 7,"Michael Georgiou","Michael",NA,"Durham, UK",-1.5848520,54.7752500,-1.5848520,54.77525
+"70", 70,"Rav Bansal",28,"M","Student support","Erith", 7,"Rav Bansal","Rav",NA,"Erith, UK", 0.1746750,51.4808180, 0.1746750,51.48082
+"71", 71,"Selasi Gbormittah",30,"M","Client service associate","London", 7,"Selasi Gbormittah","Selasi",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"72", 72,"Tom Gilliford",26,"M","Project engagement manager","Rochdale", 7,"Tom Gilliford","Tom",NA,"Rochdale, UK",-2.1561000,53.6097136,-2.1561000,53.60971
+"73", 73,"Valerie ""Val"" Stones",66,"F","Semi-retired, Substitute teacher","Yeovil", 7,"Val","Val",NA,"Yeovil, UK",-2.6333080,50.9420610,-2.6333080,50.94206
+"74", 74,"Chris Geiger",50,"M","Software developer","Bristol", 8,"Chris Geiger","Chris",NA,"Bristol, UK",-2.5879100,51.4545130,-2.5879100,51.45451
+"75", 75,"Flo Atkins",71,"F","Retired","Merseyside", 8,"Flo Atkins","Flo",NA,"Merseyside, UK",-2.9436643,53.3976041,-2.9436643,53.39760
+"76", 76,"James Hillery",46,"M","Banker","Brentwood, Essex", 8,"James Hillery","James",NA,"Brentwood, Essex, UK", 0.3071749,51.6204750, 0.3071749,51.62047
+"77", 77,"Julia Chernogorova",21,"F","Aviation Broker","Crawley, West Sussex", 8,"Julia Chernogorova","Julia",NA,"Crawley, West Sussex, UK",-0.1872275,51.1091401,-0.1872275,51.10914
+"78", 78,"Kate Lyon",29,"F","Health and safety inspector","Merseyside", 8,"Kate Lyon","Kate",NA,"Merseyside, UK",-2.9436643,53.3976041,-2.9436643,53.39760
+"79", 79,"Liam Charles",19,"M","Student","North London", 8,"Liam Charles","Liam",NA,"North London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"80", 80,"Peter Abatan",52,"M","IT programme manager","Southend, Essex", 8,"Peter Abatan","Peter",NA,"Southend, Essex, UK", 0.7077123,51.5459269, 0.7077123,51.54593
+"81", 81,"Sophie Faldo",33,"F","Former army officer and trainee stuntwoman","West Molesey, Surrey", 8,"Sophie Faldo","Sophie","WINNER","West Molesey, Surrey, UK",-0.3748210,51.4023080,-0.3748210,51.40231
+"82", 82,"Stacey Hart",42,"F","Former school teacher","Radlett, Hertfordshire", 8,"Stacey Hart","Stacey",NA,"Radlett, Hertfordshire, UK",-0.3173869,51.6868080,-0.3173869,51.68681
+"83", 83,"Steven Carter-Bailey",34,"M","Marketer","Watford, Hertfordshire", 8,"Steven Carter-Bailey","Steven",NA,"Watford, Hertfordshire, UK",-0.3970199,51.6611283,-0.3970199,51.66113
+"84", 84,"Tom Hetherington",29,"M","Architect","Edinburgh", 8,"Tom Hetherington","Tom",NA,"Edinburgh, UK",-3.1882670,55.9532520,-3.1882670,55.95325
+"85", 85,"Chuen-Yan ""Yan"" Tsou",46,"F","Laboratory research scientist","North London", 8,"Yan","Yan",NA,"North London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"86", 86,"Antony Amourdoux",30,"M","Banker","London", 9,"Antony Amourdoux","Antony",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"87", 87,"Briony Williams",33,"F","Stay at home parent","Bristol", 9,"Briony Williams","Briony",NA,"Bristol, UK",-2.5879100,51.4545130,-2.5879100,51.45451
+"88", 88,"Dan Beasley-Harling",36,"M","Stay at home parent","London", 9,"Dan Beasley-Harling","Dan",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"89", 89,"Imelda McCarron",33,"F","Countryside recreation officer","County Tyrone", 9,"Imelda McCarron","Imelda",NA,"County Tyrone, UK",-3.4359730,55.3780510,-3.4359730,55.37805
+"90", 90,"Jon Jenkins",47,"M","Blood courier","Newport", 9,"Jon Jenkins","Jon",NA,"Newport, UK",-2.9976640,51.5841510,-2.9976640,51.58415
+"91", 91,"Karen Wright",60,"F","In-store sampling assistant","Wakefield", 9,"Karen Wright","Karen",NA,"Wakefield, UK",-1.5059240,53.6832980,-1.5059240,53.68330
+"92", 92,"Kim-Joy Hewlett",27,"F","Mental health specialist","Leeds", 9,"Kim-Joy Hewlett","Kim-Joy",NA,"Leeds, UK",-1.5490774,53.8007554,-1.5490774,53.80076
+"93", 93,"Luke Thompson",30,"M","Civil servant/house and techno DJ","Sheffield", 9,"Luke Thompson","Luke",NA,"Sheffield, UK",-1.4700850,53.3811290,-1.4700850,53.38113
+"94", 94,"Manon Lagrève",26,"F","Software project manager","London", 9,"Manon Lagrève","Manon",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"95", 95,"Rahul Mandal",30,"M","Research scientist","Rotherham", 9,"Rahul Mandal","Rahul","WINNER","Rotherham, UK",-1.3635009,53.4326035,-1.3635009,53.43260
+"96", 96,"Ruby Bhogal",29,"F","Project manager","London", 9,"Ruby Bhogal","Ruby",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"97", 97,"Terry Hartill",56,"M","Retired air steward","West Midlands", 9,"Terry Hartill","Terry",NA,"West Midlands, UK",-1.8298330,52.4750743,-1.8298330,52.47507
+"98", 98,"Alice Fevronia",28,"F","Geography teacher","Essex",10,"Alice Fevronia","Alice",NA,"Essex, UK", 0.4856781,51.5742447, 0.4856781,51.57424
+"99", 99,"Amelia Le Bruin",24,"F","Fashion designer","Halifax",10,"Amelia Le Bruin","Amelia",NA,"Halifax, UK",-1.8575400,53.7270200,-1.8575400,53.72702
+"100",100,"Dan Chambers",32,"M","Support worker","Rotherham",10,"Dan Chambers","Dan",NA,"Rotherham, UK",-1.3635009,53.4326035,-1.3635009,53.43260
+"101",101,"David Atherton",36,"M","International health adviser","Whitby",10,"David Atherton","David","WINNER","Whitby, UK",-0.6133470,54.4863350,-0.6133470,54.48633
+"102",102,"Helena Garcia",40,"F","Online project manager","Leeds",10,"Helena Garcia","Helena",NA,"Leeds, UK",-1.5490774,53.8007554,-1.5490774,53.80076
+"103",103,"Henry Bird",20,"M","Student","Durham",10,"Henry Bird","Henry",NA,"Durham, UK",-1.5848520,54.7752500,-1.5848520,54.77525
+"104",104,"Jamie Finn",20,"M","Part-time waiter","Surrey",10,"Jamie Finn","Jamie",NA,"Surrey, UK",-0.5599501,51.3147593,-0.5599501,51.31476
+"105",105,"Michael Chakraverty",26,"M","Theatre manager/fitness instructor","Stratford-upon-Avon",10,"Michael Chakraverty","Michael",NA,"Stratford-upon-Avon, UK",-1.7082980,52.1917300,-1.7082980,52.19173
+"106",106,"Michelle Evans-Fecci",35,"F","Print shop administrator","Tenby, Wales",10,"Michelle Evans-Fecci","Michelle",NA,"Tenby, Wales, UK",-4.7035790,51.6727380,-4.7035790,51.67274
+"107",107,"Phil Thorne",56,"M","HGV driver","Rainham",10,"Phil Thorne","Phil",NA,"Rainham, UK", 0.1948310,51.5177320, 0.1948310,51.51773
+"108",108,"Priya O'Shea",34,"F","Marketing consultant","Leicester",10,"Priya O'Shea","Priya",NA,"Leicester, UK",-1.1397592,52.6368778,-1.1397592,52.63688
+"109",109,"Rosie Brandreth-Poynter",28,"","Veterinary surgeon","Somerset",10,"Rosie Brandreth-Poynter","Rosie",NA,"Somerset, UK",-2.9262307,51.1050970,-2.9262307,51.10510
+"110",110,"Steph Blackwell",28,"F","Shop assistant","Chester",10,"Steph Blackwell","Steph",NA,"Chester, UK",-2.8930750,53.1933920,-2.8930750,53.19339
+"111",111,"Dave Friday",30,"M","Armoured security guard","Waterlooville, Hampshire",11,"Dave Friday","Dave",NA,"Waterlooville, Hampshire, UK",-1.0287510,50.8903120,-1.0287510,50.89031
+"112",112,"Hermine",39,"F","Accountant","London",11,"Hermine","Hermine",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"113",113,"Laura Adlington",31,"F","Digital manager","Gravesend, Kent",11,"Laura Adlington","Laura",NA,"Gravesend, Kent, UK", 0.3707590,51.4418840, 0.3707590,51.44188
+"114",114,"Linda Rayfield",61,"F","Retirement living team leader","Bexhill-on-Sea, East Sussex",11,"Linda Rayfield","Linda",NA,"Bexhill-on-Sea, East Sussex, UK", 0.4662071,50.8499062, 0.4662071,50.84991
+"115",115,"Loriea Campbell-Clarey",27,"F","Diagnostic radiographer","Durham",11,"Loriea Campbell-Clarey","Loriea",NA,"Durham, UK",-1.5848520,54.7752500,-1.5848520,54.77525
+"116",116,"Lottie Bedlow",31,"F","Pantomime producer","West Sussex",11,"Lottie Bedlow","Lottie",NA,"West Sussex, UK",-0.4617075,50.9280143,-0.4617075,50.92801
+"117",117,"Makbul ""Mak"" Patel",51,"M","Accountant","Manchester",11,"Mak","Mak",NA,"Manchester, UK",-2.2426305,53.4807593,-2.2426305,53.48076
+"118",118,"Marc Elliott",51,"M","Bronze resin sculptor","St Eval, Cornwall",11,"Marc Elliott","Marc",NA,"St Eval, Cornwall, UK",-4.9840370,50.4777259,-4.9840370,50.47773
+"119",119,"Mark Lutton",32,"M","Project manager","Portadown, Northern Ireland",11,"Mark Lutton","Mark",NA,"Portadown, Northern Ireland, UK",-6.4548387,54.4203331,-6.4548387,54.42033
+"120",120,"Peter Sawkins",20,"M","Accounting & finance student","Edinburgh",11,"Peter Sawkins","Peter","WINNER","Edinburgh, UK",-3.1882670,55.9532520,-3.1882670,55.95325
+"121",121,"Rowan Williams",55,"M","Music teacher","Pershore, Worcestershire",11,"Rowan Williams","Rowan",NA,"Pershore, Worcestershire, UK",-2.0748140,52.1099940,-2.0748140,52.10999
+"122",122,"Sura Mitib",31,"F","Hospital pharmacy dispenser","London",11,"Sura Mitib","Sura",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"123",123,"Amanda Georgiou",56,"F","Metropolitan Police detective","London",12,"Amanda Georgiou","Amanda",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"124",124,"Chigs Parmar",40,"M","Sales manager","Leicester",12,"Chigs Parmar","Chigs",NA,"Leicester, UK",-1.1397592,52.6368778,-1.1397592,52.63688
+"125",125,"Crystelle Pereira",26,"F","Client relationship manager","London",12,"Crystelle Pereira","Crystelle",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"126",126,"Freya Cox",19,"F","Student","Scarborough, North Yorkshire",12,"Freya Cox","Freya",NA,"Scarborough, North Yorkshire, UK",-0.3997520,54.2831130,-0.3997520,54.28311
+"127",127,"George Aristidou",34,"M","Shared lives coordinator","London",12,"George Aristidou","George",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"128",128,"Giuseppe Dell'Anno",45,"M","Chief engineer","Bristol",12,"Giuseppe Dell'Anno","Giuseppe","WINNER","Bristol, UK",-2.5879100,51.4545130,-2.5879100,51.45451
+"129",129,"Jairzinho Parris",51,"M","Head of Finance","London",12,"Jairzinho Parris","Jairzinho",NA,"London, UK",-0.1275862,51.5072178,-0.1275862,51.50722
+"130",130,"Jürgen Krauss",56,"M","Physicist","Brighton, East Sussex",12,"Jürgen Krauss","Jürgen",NA,"Brighton, East Sussex, UK",-0.1362672,50.8229402,-0.1362672,50.82294
+"131",131,"Lizzie Acker",28,"F","Car production operative","Liverpool",12,"Lizzie Acker","Lizzie",NA,"Liverpool, UK",-2.9915726,53.4083714,-2.9915726,53.40837
+"132",132,"Maggie",70,"F","Retired nurse and midwife","Poole, Dorset",12,"Maggie","Maggie",NA,"Poole, Dorset, UK",-1.9872480,50.7150500,-1.9872480,50.71505
+"133",133,"Rochica",27,"F","Junior HR business partner","Birmingham",12,"Rochica","Rochica",NA,"Birmingham, UK",-1.8904010,52.4862430,-1.8904010,52.48624
+"134",134,"Tom Fletcher",28,"M","Software developer","Maidstone, Kent",12,"Tom Fletcher","Tom",NA,"Maidstone, Kent, UK", 0.5226990,51.2703630, 0.5226990,51.27036

@@ -1,0 +1,109 @@
+season,week,week_theme,category
+5,8,Advanced Dough,Technique
+4,8,Alternative Ingredients,Ingredients
+6,5,Alternative Ingredients,Ingredients
+7,4,Batter,Technique
+2,4,Biscuits,Biscuits
+3,8,Biscuits,Biscuits
+5,2,Biscuits,Biscuits
+6,2,Biscuits,Biscuits
+7,2,Biscuits,Biscuits
+8,2,Biscuits,Biscuits
+9,1,Biscuits,Biscuits
+10,2,Biscuits,Biscuits
+11,2,Biscuits,Biscuits
+12,2,Biscuits,Biscuits
+4,5,Biscuits and Traybakes,Biscuits
+7,6,Botanical,Ingredients
+2,3,Bread,Bread
+3,2,Bread,Bread
+4,2,Bread,Bread
+5,3,Bread,Bread
+6,3,Bread,Bread
+7,3,Bread,Bread
+8,3,Bread,Bread
+9,3,Bread,Bread
+10,3,Bread,Bread
+11,3,Bread,Bread
+12,3,Bread,Bread
+2,1,Cakes,Cakes
+3,1,Cakes,Cakes
+4,1,Cakes,Cakes
+5,1,Cakes,Cakes
+6,1,Cakes,Cakes
+7,1,Cakes,Cakes
+8,1,Cakes,Cakes
+9,2,Cakes,Cakes
+10,1,Cakes,Cakes
+11,1,Cakes,Cakes
+12,1,Cakes,Cakes
+8,4,Caramel,Ingredients
+12,7,Caramel,Ingredients
+6,9,Chocolate,Ingredients
+11,4,Chocolate,Ingredients
+10,4,Dairy,Ingredients
+9,8,Danish,Country
+2,6,Desserts,Desserts
+3,4,Desserts,Desserts
+4,3,Desserts,Desserts
+5,4,Desserts,Desserts
+6,4,Desserts,Desserts
+7,7,Desserts,Desserts
+9,4,Desserts,Desserts
+10,6,Desserts,Desserts
+11,8,Desserts,Desserts
+12,4,Desserts,Desserts
+5,6,European Cakes,Technique
+10,7,Festivals,Misc.
+2,8,Final,Final
+3,10,Final,Final
+4,10,Final,Final
+5,10,Final,Final
+6,10,Final,Final
+7,10,Final,Final
+8,10,Final,Final
+9,10,Final,Final
+10,10,Final,Final
+11,10,Final,Final
+12,10,Final,Final
+8,8,Forgotten Bakes,Misc.
+12,8,Free-from,Ingredients
+4,9,French,Country
+12,5,German,Country
+8,7,Italian,Country
+11,6,Japanese,Country
+4,7,Pastry,Pastry
+5,7,Pastry,Pastry
+6,6,Pastry,Pastry
+7,5,Pastry,Pastry
+8,6,Pastry,Pastry
+9,6,Pastry,Pastry
+10,8,Pastry,Pastry
+11,5,Pastry,Pastry
+12,6,Pastry,Pastry
+2,7,Pâtisserie,Pâtisserie
+3,9,Pâtisserie,Pâtisserie
+5,9,Pâtisserie,Pâtisserie
+6,8,Pâtisserie,Pâtisserie
+7,9,Pâtisserie,Pâtisserie
+8,9,Pâtisserie,Pâtisserie
+9,9,Pâtisserie,Pâtisserie
+10,9,Pâtisserie,Pâtisserie
+11,9,Pâtisserie,Pâtisserie
+12,9,Pâtisserie,Pâtisserie
+2,5,Pies,Pastry
+3,5,Pies,Pastry
+4,4,Pies and Tarts,Pastry
+5,5,Pies and Tarts,Pastry
+3,6,Puddings,Technique
+8,5,Puddings,Technique
+9,5,Spice,Ingredients
+3,7,Sweet Dough,Technique
+4,6,Sweet Dough,Technique
+2,2,Tarts,Pastry
+3,3,Tarts,Pastry
+11,7,The '80s,Time Period
+10,5,The Roaring Twenties,Time Period
+7,8,Tudor,Time Period
+9,7,Vegan,Ingredients
+6,7,Victorian,Time Period
